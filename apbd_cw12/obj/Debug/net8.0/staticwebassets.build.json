@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "dIF1U2Pn92cwOsOL2arfWCE2a36+xrT2w+LhWn05j2A=",
+  "Hash": "8pAps4m9ReLZIQAmZ9wSIo6WlXO6bHoKjm4BY/5zx8E=",
   "Source": "apbd_cw12",
   "BasePath": "_content/apbd_cw12",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

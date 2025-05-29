@@ -5139,26 +5139,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\s31249\\.nuget\\packages\\": {}
+    "/Users/bernardkula/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\APBD\\apbd_cw12\\apbd_cw12\\apbd_cw12.csproj",
+      "projectUniqueName": "/Users/bernardkula/Documents/inf/Projekty_Studia/IV/APBD/apbd_cw12/apbd_cw12/apbd_cw12.csproj",
       "projectName": "apbd_cw12",
-      "projectPath": "Z:\\APBD\\apbd_cw12\\apbd_cw12\\apbd_cw12.csproj",
-      "packagesPath": "C:\\Users\\s31249\\.nuget\\packages\\",
-      "outputPath": "Z:\\APBD\\apbd_cw12\\apbd_cw12\\obj\\",
+      "projectPath": "/Users/bernardkula/Documents/inf/Projekty_Studia/IV/APBD/apbd_cw12/apbd_cw12/apbd_cw12.csproj",
+      "packagesPath": "/Users/bernardkula/.nuget/packages/",
+      "outputPath": "/Users/bernardkula/Documents/inf/Projekty_Studia/IV/APBD/apbd_cw12/apbd_cw12/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\s31249\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/bernardkula/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5176,7 +5174,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -5212,6 +5211,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.13, 8.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.13, 8.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.13, 8.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5220,7 +5233,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
